@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mvennela29
 - I have good knowledge in java, C++, Python, MySQL, HTML, CSS, JavaScript. 
-- 👀 I’m interested in front-end developer and data analysts.
-- 🌱 I’m currently learning react.js.
+- 👀 I’m interested in front-end developer and System Engineer .
+- 🌱 I’m currently learning react.js and Spring Boot Frameworks.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email:mittavennela29@gmail.com
 
